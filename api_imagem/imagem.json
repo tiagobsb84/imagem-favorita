@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Estádio",
+        "descricao": "Estádio de futebol à noite",
+        "src": "https://img.freepik.com/fotos-gratis/estadio-de-futebol-a-noite-generative-ai_260559-480.jpg?w=360&t=st=1703673217~exp=1703673817~hmac=392b73bcb52062df919daa5d297baf1df34fbb7dacee35333e1840a1e6d3d46e"
+    },
+    {
+        "id": 2,
+        "titulo": "Terraço",
+        "descricao": "Terraço de varanda de madeira com céu de manhã cedo",
+        "src": "https://img.freepik.com/fotos-premium/terraco-de-varanda-de-madeira-com-ceu-de-manha-cedo_146508-3768.jpg?w=826"
+    },
+    {
+        "id": 3,
+        "titulo": "Carrinho de compras",
+        "descricao": "Carrinho de compras ou carrinho em frente ao conceito de marketing on-line e comércio",
+        "src": "https://img.freepik.com/fotos-premium/carrinho-de-compras-ou-carrinho-em-frente-ao-conceito-de-marketing-on-line-e-comercio-de-negocios-para-laptop-foco-selecionado_146508-1509.jpg?w=740"
+    },
+    {
+        "id": 4,
+        "titulo": "Piso de asfalto",
+        "descricao": "Piso de asfalto vazio com céu pôr do sol",
+        "src": "https://img.freepik.com/fotos-premium/piso-de-asfalto-vazio-com-ceu-por-do-sol_146508-1273.jpg?w=826"
+    }
+]
